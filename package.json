@@ -1,0 +1,18 @@
+{
+	"name": "@financial-times/origami-repo-data-cli",
+	"version": "1.0.0",
+	"description": "A command line client for the Origami Repo Data service",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "chee <chee@snoot.club>",
+	"license": "MIT",
+	"bin": {
+		"origami-repo-data": "./index.js"
+	},
+	"dependencies": {
+		"@financial-times/origami-repo-data-client": "^1.6.0",
+		"esm": "^3.2.25"
+	}
+}
