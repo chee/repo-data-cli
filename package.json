@@ -1,6 +1,6 @@
 {
 	"name": "@financial-times/origami-repo-data-cli",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A command line client for the Origami Repo Data service",
 	"main": "index.js",
 	"scripts": {
